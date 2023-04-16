@@ -1,0 +1,38 @@
+body{
+    margin: 2%; 
+    background: #F6DEFF;  
+
+}   
+.b{ 
+    
+    
+}
+.st{
+    position: absolute;  
+    top:2%;  
+    right: 1px;
+} 
+.sf{
+    position: absolute;  
+    top:2%;  
+    right: 160px;
+} 
+/* .c1 {
+    position: absolute;  
+    top:20%;  
+    right: 80%;
+}  */
+body p{ 
+    position: absolute;  
+    top:20%;  
+    display: flex; 
+    gap: 160px; 
+    padding-left: 40px;
+} 
+.g2{
+    position: absolute;  
+    top: 60%;  
+    display: flex; 
+    gap: 160px; 
+    padding-left: 40px;
+}
